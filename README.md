@@ -1,0 +1,2 @@
+# Predicting-Hotel-Review-Ratings-Using-Probabilistic-Models-and-Neural-Inference
+This project applies probabilistic modeling and neural inference to predict hotel review ratings from text. A neural ProdLDA model extracts topics from 20k TripAdvisor reviews, and topic proportions combined with bag-of-words features enable joint generative classification using SVI in Pyro, achieving strong predictive performance.
